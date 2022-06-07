@@ -8,7 +8,7 @@
 
 .overlay
 {
-  height: 35vh;
+  height: 85vh;
   width: 100%;
   position: absolute;
   top: 0%;
@@ -33,10 +33,7 @@
 .header
 {
   z-index: 1;
-  height: 35vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 85vh;
   background-image: url("03.jpg");
   background-repeat: no-repeat;
   background-size: cover;
